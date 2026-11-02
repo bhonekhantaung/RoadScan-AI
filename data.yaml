@@ -1,0 +1,12 @@
+path: C:/Users/User/OneDrive/Desktop/RoadVision AI/Datasets/RoadScan_Final
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Longitudinal Crack
+  1: Transverse Crack
+  2: Alligator Crack
+  3: Pothole
+  4: Water-Filled Pothole

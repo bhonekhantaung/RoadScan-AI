@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Large datasets
+Datasets/
+
+# Model training outputs
+runs/
+*.pt
+*.onnx
+
+# Video recordings
+recordings/
+*.mp4
+
+# Archives and temporary files
+*.zip
+*.7z
+*.tmp
