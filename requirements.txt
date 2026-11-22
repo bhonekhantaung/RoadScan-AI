@@ -1,0 +1,13 @@
+ultralytics
+opencv-python
+osmnx
+geopandas
+scikit-learn
+pandas
+streamlit
+folium
+streamlit-folium
+reportlab
+requests
+python-dotenv
+flask
